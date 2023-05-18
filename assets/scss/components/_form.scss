@@ -1,0 +1,46 @@
+.travel {
+    width: 50%;
+    margin: 0 auto;
+    //padding: 20px;
+    color: #161614;
+    font-style: normal;
+   
+    
+    
+    }
+
+
+.travel__group{
+    margin: 15px 0;
+    
+    //display:flex;
+    
+    }
+
+ .travel__group-input{
+        display: inline-block;
+        vertical-align: top;
+        
+        
+    }
+
+.travel__group-input label{
+    display: inline-block;
+    width: 80px;
+}
+
+.travel__group-input--left{
+    //display: inline-block;
+    width: 50px;
+}
+
+
+.travel__group-input--right{
+    padding-left: 5%;
+    
+    
+    color: #161614;
+}
+.travel__group-input--large{
+    width: 60%;
+}

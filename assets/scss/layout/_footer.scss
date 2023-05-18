@@ -1,0 +1,40 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: $celeste;
+    color: $nickel;
+    padding: 50px;
+    width: 100%;
+
+    //position: fixed;
+    left: 0;
+    bottom: 0;
+  }
+  
+  .footer__left{
+   word-spacing: normal;
+    
+  }
+  .footer__right {
+    flex-basis: 20%;
+    margin: 0;
+    justify-content: space-between;
+    word-spacing: 15pt;
+    
+    
+   
+    
+    
+  }
+  
+  .footer__text {
+    font-size: 16px;
+    margin: 0;
+    font-weight: bold;
+    
+    
+   
+  }
+  
